@@ -2,10 +2,10 @@
   "modpacks": [
     {
       "name": "Lethal Company",
-      "version": "3.0.3",
+      "version": "3.0.2",
       "file_url": "https://drive.google.com/file/d/1vJyo8e_Nn0Of-GNe7tb105Q6XAFVi6TL/view?usp=sharing",
-      "hash_sha256": "057bf8df6719056052d0f9939c8a10c28e028197ec54a7d920168edaadbb1a85",
-      "size_bytes": 2010000000,
+      "hash_sha256": "f63b26ff152a1278ff481ea9be56c48441c740b3b3b97653881e7d3cfab0a9e6",
+      "size_bytes": 1505325282,
       "install_path": "lethal-company",
       "executable": "LDKCompany v3.0.3\\Lethal Company.exe"
     },
