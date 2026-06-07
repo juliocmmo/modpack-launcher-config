@@ -17,6 +17,15 @@
       "size_bytes": 866100000,
       "install_path": "minecraft-tekkid8",
       "executable": ""
+    },
+    {
+      "name": "Among us",
+      "version": "2026.3.312.0",
+      "file_url": "",
+      "hash_sha256": "f2559511d7b9bf431d4feaaf94612cb4f14f51fd14b565e66e3b923a5b07d7b7",
+      "size_bytes": 577234739,
+      "install_path": "Among us",
+      "executable": "Among us.exe"
     }
   ]
 }
