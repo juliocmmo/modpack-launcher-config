@@ -19,13 +19,13 @@
       "executable": ""
     },
     {
-      "name": "Among us",
+      "name": "Among Us",
       "version": "2026.3.312.0",
-      "file_url": "",
+      "file_url": "https://drive.google.com/file/d/1BOH3DyKPO2ksI8p7VtWS-v0h66D_8IFo/view?usp=sharing",
       "hash_sha256": "f2559511d7b9bf431d4feaaf94612cb4f14f51fd14b565e66e3b923a5b07d7b7",
       "size_bytes": 577234739,
-      "install_path": "Among us",
-      "executable": "Among us.exe"
+      "install_path": "Among Us",
+      "executable": "Among Us.exe"
     }
   ]
 }
