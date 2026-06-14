@@ -1,22 +1,13 @@
 {
   "modpacks": [
     {
-      "name": "Lethal Company",
-      "version": "3.0.2",
-      "file_url": "https://drive.google.com/file/d/1vJyo8e_Nn0Of-GNe7tb105Q6XAFVi6TL/view?usp=sharing",
-      "hash_sha256": "f63b26ff152a1278ff481ea9be56c48441c740b3b3b97653881e7d3cfab0a9e6",
-      "size_bytes": 1505325282,
-      "install_path": "lethal-company",
-      "executable": "LDKCompany v3.0.3\\Lethal Company.exe"
-    },
-    {
       "name": "Among Us",
       "version": "1.0.2",
       "file_url": "https://drive.google.com/open?id=1tZRSyOF6zPJQWST-lzverdMGtJ9DbsOl",
       "hash_sha256": "f225e78593adfe0d3f16cbc20b814788607dd676dbf952a58dd97258802099b8",
       "size_bytes": 1372022844,
       "install_path": "Among Us",
-      "executable": "Super Battle Golf.exe"
+      "executable": "Among Us.exe"
     },
     {
       "name": "Escape the Backroom",
