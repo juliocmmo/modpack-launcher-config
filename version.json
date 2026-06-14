@@ -11,10 +11,10 @@
     },
     {
       "name": "Among Us",
-      "version": "1.0.1",
-      "file_url": "https://drive.google.com/open?id=1sRPJH13MuvmJ9t7SzW2yMPS1ZNHvhmtx",
-      "hash_sha256": "603d7e036e27a8faaeb22e14d21fb015f6bfe13884fb2b8722813beca18249d0",
-      "size_bytes": 665214649,
+      "version": "1.0.2",
+      "file_url": "https://drive.google.com/open?id=1tZRSyOF6zPJQWST-lzverdMGtJ9DbsOl",
+      "hash_sha256": "f225e78593adfe0d3f16cbc20b814788607dd676dbf952a58dd97258802099b8",
+      "size_bytes": 1372022844,
       "install_path": "Among Us",
       "executable": "Among Us.exe"
     },
