@@ -1,15 +1,6 @@
 {
   "modpacks": [
     {
-      "name": "Among Us",
-      "version": "1.0.2",
-      "file_url": "https://drive.google.com/open?id=1tZRSyOF6zPJQWST-lzverdMGtJ9DbsOl",
-      "hash_sha256": "f225e78593adfe0d3f16cbc20b814788607dd676dbf952a58dd97258802099b8",
-      "size_bytes": 1372022844,
-      "install_path": "Among Us",
-      "executable": "Among Us.exe"
-    },
-    {
       "name": "Escape the Backroom",
       "version": "1.0.3",
       "file_url": "https://drive.google.com/file/d/14LtjjXXHomeUpaJ93udr4cow5l1W0Q4q/view?usp=drive_link",
