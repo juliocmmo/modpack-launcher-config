@@ -1,13 +1,43 @@
 {
+  "shared": {
+    "prism_launcher": {
+      "version": "11.0.2",
+      "file_url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.0.2/PrismLauncher-Windows-MSVC-Portable-11.0.2.zip",
+      "hash_sha256": "2370410de1e631aa06da58d042fb0acfc69dedaf90e97b7dfa3dee1c48a77f71",
+      "size_bytes": 20397811,
+      "install_path": "PrismLauncher"
+    }
+  },
   "modpacks": [
+    {
+      "name": "Escape the Backroom",
+      "version": "1.0.3",
+      "type": "standalone",
+      "file_url": "https://drive.google.com/file/d/14LtjjXXHomeUpaJ93udr4cow5l1W0Q4q/view?usp=drive_link",
+      "hash_sha256": "11eb6c2c946f9a2c8fb4255e0147590827fe04918c8283bbd98c069b9400c238",
+      "size_bytes": 27291482145,
+      "install_path": "Escape the Backroom",
+      "executable": "Backrooms.exe"
+    },
     {
       "name": "Lethal Company",
       "version": "1.0.2",
+      "type": "standalone",
       "install_path": "Lethal Company",
       "executable": "Lethal Company.exe",
       "file_url": "https://drive.google.com/open?id=1qGbYLyoe82XFGFGninhbEPUhxyiOIH2a",
       "hash_sha256": "057bf8df6719056052d0f9939c8a10c28e028197ec54a7d920168edaadbb1a85",
       "size_bytes": 2010575591
+    },
+    {
+      "name": "TEKKID 8",
+      "version": "1.0.0",
+      "type": "minecraft",
+      "file_url": "https://drive.google.com/file/d/1yh0HAyYfWTBKMqfPxGLBHb4fK8nAYdvR/view?usp=drive_link",
+      "hash_sha256": "7b130ce992d5ccb35507e9abf6b93c5724e88994767709f3ff18362c6f104b92",
+      "size_bytes": 866116431,
+      "install_path": "TEKKID 8",
+      "instance_name": "TEKKID 8"
     }
   ]
 }
