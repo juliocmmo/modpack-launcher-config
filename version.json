@@ -17,15 +17,6 @@
       "size_bytes": 27291482145,
       "install_path": "Escape the Backroom",
       "executable": "Backrooms.exe"
-    },
-    {
-      "name": "Super Battle Golf",
-      "version": "1.1.2-436",
-      "install_path": "Super Battle Golf",
-      "executable": "Super Battle Golf.exe",
-      "file_url": "https://drive.google.com/open?id=1catnF1y_r6scxvo9IhAtfskpSaxsruZm",
-      "hash_sha256": "f225e78593adfe0d3f16cbc20b814788607dd676dbf952a58dd97258802099b8",
-      "size_bytes": 1372022844
     }
   ]
 }
