@@ -11,12 +11,12 @@
     },
     {
       "name": "Lethal Company",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "install_path": "Lethal Company",
       "executable": "Among Us.exe",
-      "file_url": "https://drive.google.com/open?id=1SwGXgt5vdRQOPrmE4RLxk-Cj90_1CxDL",
-      "hash_sha256": "057bf8df6719056052d0f9939c8a10c28e028197ec54a7d920168edaadbb1a85",
-      "size_bytes": 2010575591
+      "file_url": "https://drive.google.com/open?id=1B6SVdzeCsPTaiLm38u2auhSynNJ7_BrD",
+      "hash_sha256": "603d7e036e27a8faaeb22e14d21fb015f6bfe13884fb2b8722813beca18249d0",
+      "size_bytes": 665214649
     }
   ]
 }
