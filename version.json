@@ -22,11 +22,11 @@
     },
     {
       "name": "TEKKID 8",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "type": "minecraft",
-      "file_url": "https://drive.google.com/open?id=13kurYA9IKM7SJDgmnILdd8bBQ09ReS7k",
-      "hash_sha256": "ce012c9d51a3f7821f837679de20eb5271e7877c728203d16239c8cea411e116",
-      "size_bytes": 140727832,
+      "file_url": "https://drive.google.com/open?id=1QwtG0ofMFswm6s5NB5WxERtwiVkYEKVM",
+      "hash_sha256": "b1dc16fafbfaa6e0c9d6aa6a5bc38078f2871add8398868b255293af32c60a24",
+      "size_bytes": 888041377,
       "install_path": "TEKKID 8",
       "instance_name": "TEKKID 8"
     }
