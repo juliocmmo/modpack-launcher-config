@@ -1,13 +1,4 @@
 {
-  "shared": {
-    "prism_launcher": {
-      "version": "11.0.2",
-      "file_url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.0.2/PrismLauncher-Windows-MSVC-Portable-11.0.2.zip",
-      "hash_sha256": "2370410de1e631aa06da58d042fb0acfc69dedaf90e97b7dfa3dee1c48a77f71",
-      "size_bytes": 20397811,
-      "install_path": "PrismLauncher"
-    }
-  },
   "modpacks": [
     {
       "name": "Escape the Backroom",
@@ -31,11 +22,11 @@
     },
     {
       "name": "TEKKID 8",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "type": "minecraft",
-      "file_url": "https://drive.google.com/file/d/10ZnbZyP7Jkyex5tpPm8HQBGDcqvzcvRt/view?usp=drive_link",
-      "hash_sha256": "7b130ce992d5ccb35507e9abf6b93c5724e88994767709f3ff18362c6f104b92",
-      "size_bytes": 866116431,
+      "file_url": "https://drive.google.com/open?id=13kurYA9IKM7SJDgmnILdd8bBQ09ReS7k",
+      "hash_sha256": "ce012c9d51a3f7821f837679de20eb5271e7877c728203d16239c8cea411e116",
+      "size_bytes": 140727832,
       "install_path": "TEKKID 8",
       "instance_name": "TEKKID 8"
     }
