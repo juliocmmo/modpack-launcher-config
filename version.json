@@ -71,7 +71,10 @@
       "file_url": "https://drive.google.com/open?id=1HsjAugusAJCUidbukMh4Ck2Rskluxmwz",
       "hash_sha256": "603d7e036e27a8faaeb22e14d21fb015f6bfe13884fb2b8722813beca18249d0",
       "size_bytes": 665214649,
-      "executable": "Among Us.exe"
+      "executable": "Among Us.exe",
+      "thumbnail_url": "https://drive.google.com/open?id=1jaTvsFoUhFcXx-6Fho7txILsLbTva0CS",
+      "thumbnail_offset": 0.027,
+      "icon_url": "https://drive.google.com/open?id=13VSkTn1IrSC-L6ikV9WO5tDUJ-JMeKuq"
     }
   ]
 }
