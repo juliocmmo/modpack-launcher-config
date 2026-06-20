@@ -12,6 +12,7 @@
     },
     {
       "name": "Lethal Company",
+      "description": "Colete sucata espacial para pagar a dívida da empresa. Explore luas abandonadas com seus amigos — se voltarem.",
       "version": "1.0.2",
       "type": "standalone",
       "install_path": "Lethal Company",
