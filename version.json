@@ -29,6 +29,16 @@
       "size_bytes": 888041377,
       "install_path": "TEKKID 8",
       "instance_name": "TEKKID 8"
+    },
+    {
+      "name": "Super Battle Golf",
+      "version": "1.0.0",
+      "type": "standalone",
+      "install_path": "Super Battle Golf",
+      "executable": "Super Battle Golf.exe",
+      "file_url": "https://drive.google.com/open?id=134S64o7I_SfeR2kdPHbeQf2rCgUErXhU",
+      "hash_sha256": "f225e78593adfe0d3f16cbc20b814788607dd676dbf952a58dd97258802099b8",
+      "size_bytes": 1372022844
     }
   ]
 }
