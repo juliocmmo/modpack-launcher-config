@@ -11,14 +11,15 @@
   "modpacks": [
     {
       "name": "Escape the Backroom",
-      "description": "Explore os labirintos infinitos dos Backrooms. Fuja das entidades, resolva puzzles e tente sair — se é que existe saída.",
+      "description": "Sim",
       "version": "1.0.3",
       "type": "standalone",
       "file_url": "https://drive.google.com/file/d/14LtjjXXHomeUpaJ93udr4cow5l1W0Q4q/view?usp=drive_link",
       "hash_sha256": "11eb6c2c946f9a2c8fb4255e0147590827fe04918c8283bbd98c069b9400c238",
       "size_bytes": 27291482145,
       "install_path": "Escape the Backroom",
-      "executable": "Backrooms.exe"
+      "executable": "Backrooms.exe",
+      "instance_name": ""
     },
     {
       "name": "Lethal Company",
