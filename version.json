@@ -1,7 +1,17 @@
 {
+  "shared": {
+    "prism_launcher": {
+      "version": "11.0.2",
+      "file_url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.0.2/PrismLauncher-Windows-MSVC-Portable-11.0.2.zip",
+      "hash_sha256": "2370410de1e631aa06da58d042fb0acfc69dedaf90e97b7dfa3dee1c48a77f71",
+      "size_bytes": 20397811,
+      "install_path": "PrismLauncher"
+    }
+  },
   "modpacks": [
     {
       "name": "Escape the Backroom",
+      "description": "Explore os labirintos infinitos dos Backrooms. Fuja das entidades, resolva puzzles e tente sair — se é que existe saída.",
       "version": "1.0.3",
       "type": "standalone",
       "file_url": "https://drive.google.com/file/d/14LtjjXXHomeUpaJ93udr4cow5l1W0Q4q/view?usp=drive_link",
@@ -23,6 +33,7 @@
     },
     {
       "name": "TEKKID 8",
+      "description": "Modpack de Minecraft do grupo LDKF. Guerra entre facções, mods pesados e caos garantido — prepare-se para o Tekkid.",
       "version": "1.0.2",
       "type": "minecraft",
       "file_url": "https://drive.google.com/open?id=1QwtG0ofMFswm6s5NB5WxERtwiVkYEKVM",
@@ -33,6 +44,7 @@
     },
     {
       "name": "Super Battle Golf",
+      "description": "Golf mas com superpoderes e batalha. Simples assim.",
       "version": "1.0.0",
       "type": "standalone",
       "install_path": "Super Battle Golf",
