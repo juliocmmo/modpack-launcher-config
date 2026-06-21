@@ -99,7 +99,10 @@
       "file_url": "https://drive.google.com/open?id=1nDwS3vmr_HUTGa4Bx8JF-15P2JgQ-CKm",
       "hash_sha256": "384b27f5a4b49fb90378ad2d236b9a9118925bc2c17c62d8293c9035cc8b8a61",
       "size_bytes": 4437083596,
-      "executable": "PenguinHotel.exe"
+      "executable": "PenguinHotel.exe",
+      "thumbnail_url": "https://drive.google.com/open?id=1Oqw2YNicMH58Bs-9IdKDYZv8gLMbYkmI",
+      "thumbnail_offset": 0.093,
+      "icon_url": "https://drive.google.com/open?id=1DwrQM7KlxdaR53KPUA0ARVKy1M7ovRV5"
     }
   ]
 }
