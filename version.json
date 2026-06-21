@@ -75,6 +75,20 @@
       "thumbnail_url": "https://drive.google.com/open?id=1jaTvsFoUhFcXx-6Fho7txILsLbTva0CS",
       "thumbnail_offset": 0.027,
       "icon_url": "https://drive.google.com/open?id=13VSkTn1IrSC-L6ikV9WO5tDUJ-JMeKuq"
+    },
+    {
+      "name": "Burglin' Gnomes",
+      "description": "Invada casas humanas com seus amigos, complete as missões do High-Gnome e fuja antes de virar jantar do dono.",
+      "version": "06.10.2026",
+      "type": "standalone",
+      "install_path": "Burglin' Gnomes",
+      "file_url": "https://drive.google.com/open?id=1bG-CCGd6Lvb7UMsuOMP7-4QBZFRb_xW0",
+      "hash_sha256": "4622d2fcb313f6036a98dbc1f1bc4e54f8338fb7f3bb63ba4977c0deb137c333",
+      "size_bytes": 3642629202,
+      "executable": "Gnomium.exe",
+      "thumbnail_url": "https://drive.google.com/open?id=1D3Bqqcu99CwiZSh_seW06VBxyfvw6Vs7",
+      "thumbnail_offset": 0.4525,
+      "icon_url": "https://drive.google.com/open?id=1p4oDF9U3fP5k3BOCmHRfnbpjv5W3iCu8"
     }
   ]
 }
