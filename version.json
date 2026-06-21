@@ -89,6 +89,17 @@
       "thumbnail_url": "https://drive.google.com/open?id=1D3Bqqcu99CwiZSh_seW06VBxyfvw6Vs7",
       "thumbnail_offset": 0.4525,
       "icon_url": "https://drive.google.com/open?id=1p4oDF9U3fP5k3BOCmHRfnbpjv5W3iCu8"
+    },
+    {
+      "name": "MECCHA CHAMELEON",
+      "description": "Pinte seu corpo, encontre o esconderijo perfeito e engane os caçadores — seu talento artístico é sua única defesa.",
+      "version": "1.2.2",
+      "type": "standalone",
+      "install_path": "MECCHA CHAMELEON",
+      "file_url": "https://drive.google.com/open?id=1nDwS3vmr_HUTGa4Bx8JF-15P2JgQ-CKm",
+      "hash_sha256": "384b27f5a4b49fb90378ad2d236b9a9118925bc2c17c62d8293c9035cc8b8a61",
+      "size_bytes": 4437083596,
+      "executable": "PenguinHotel.exe"
     }
   ]
 }
