@@ -41,18 +41,18 @@
       "version": "1.0.2"
     },
     {
+      "name": "Super Battle Golf",
+      "version": "1.1.2-436",
+      "type": "standalone",
       "description": "Golf mas com superpoderes e batalha. Simples assim.",
-      "executable": "Super Battle Golf.exe",
-      "file_url": "https://drive.google.com/open?id=134S64o7I_SfeR2kdPHbeQf2rCgUErXhU",
-      "hash_sha256": "f225e78593adfe0d3f16cbc20b814788607dd676dbf952a58dd97258802099b8",
+      "thumbnail_url": "https://drive.google.com/open?id=14uFkCrmXfjOJJk8sQTfBBXiNm7PYuGKs",
       "icon_url": "https://drive.google.com/open?id=1fB5yhI_A5Hfue6nfJm7vxF0ZuY5xARL9",
       "install_path": "Super Battle Golf",
-      "name": "Super Battle Golf",
-      "size_bytes": 1372022844,
+      "executable": "Super Battle Golf.exe",
       "thumbnail_offset": 0.1172,
-      "thumbnail_url": "https://drive.google.com/open?id=14uFkCrmXfjOJJk8sQTfBBXiNm7PYuGKs",
-      "type": "standalone",
-      "version": "1.0.0"
+      "file_url": "https://drive.google.com/open?id=1vgHb1ZysJ0Ut9T2txnyVB3e5PHklCzet",
+      "hash_sha256": "35f09a67ebadcce9b5f5be70a93cdbb3c122827b9c07c5e05609b06e5d01bfbb",
+      "size_bytes": 1372022758
     },
     {
       "description": "Completem as tarefas. Não confiem em ninguém. O impostor já escolheu a próxima vítima.",
@@ -83,18 +83,18 @@
       "version": "06.10.2026"
     },
     {
-      "name": "MECCHA CHAMELEON",
-      "version": "2.4.1",
-      "type": "standalone",
       "description": "Pinte seu corpo, encontre o esconderijo perfeito e engane os caçadores — seu talento artístico é sua única defesa.",
-      "thumbnail_url": "https://drive.google.com/open?id=1Oqw2YNicMH58Bs-9IdKDYZv8gLMbYkmI",
-      "icon_url": "https://drive.google.com/open?id=1DwrQM7KlxdaR53KPUA0ARVKy1M7ovRV5",
-      "install_path": "MECCHA CHAMELEON",
       "executable": "PenguinHotel.exe",
-      "thumbnail_offset": 0.093,
       "file_url": "https://drive.google.com/open?id=1XNhgDjd8v0AOTr9jXJjI6AqPkI_ZhkFG",
       "hash_sha256": "e495a1dfbff5ddd63e0b7b85dca6e09acf5c067a4ae0add6dd32dec0b1564664",
-      "size_bytes": 2419786194
+      "icon_url": "https://drive.google.com/open?id=1DwrQM7KlxdaR53KPUA0ARVKy1M7ovRV5",
+      "install_path": "MECCHA CHAMELEON",
+      "name": "MECCHA CHAMELEON",
+      "size_bytes": 2419786194,
+      "thumbnail_offset": 0.093,
+      "thumbnail_url": "https://drive.google.com/open?id=1Oqw2YNicMH58Bs-9IdKDYZv8gLMbYkmI",
+      "type": "standalone",
+      "version": "2.4.1"
     }
   ],
   "shared": {
