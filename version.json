@@ -56,7 +56,7 @@
     },
     {
       "name": "Among Us",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "type": "standalone",
       "description": "Completem as tarefas. Não confiem em ninguém. O impostor já escolheu a próxima vítima.",
       "thumbnail_url": "https://drive.google.com/open?id=1jaTvsFoUhFcXx-6Fho7txILsLbTva0CS",
@@ -64,7 +64,7 @@
       "install_path": "Among Us",
       "executable": "Among Us.exe",
       "thumbnail_offset": 0.027,
-      "file_url": "https://drive.google.com/open?id=12-37tSNeKKMOam37zq2Cof8NSMWOG6Ev",
+      "file_url": "https://drive.google.com/open?id=1Q59VRIC1g_W5z4rU69ZSpz5nyfjaCWQc",
       "hash_sha256": "603d7e036e27a8faaeb22e14d21fb015f6bfe13884fb2b8722813beca18249d0",
       "size_bytes": 665214649
     },
