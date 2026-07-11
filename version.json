@@ -1,109 +1,109 @@
 {
-  "shared": {
-    "prism_launcher": {
-      "version": "11.0.2",
-      "file_url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.0.2/PrismLauncher-Windows-MSVC-Portable-11.0.2.zip",
-      "hash_sha256": "2370410de1e631aa06da58d042fb0acfc69dedaf90e97b7dfa3dee1c48a77f71",
-      "size_bytes": 20397811,
-      "install_path": "PrismLauncher"
-    }
-  },
   "modpacks": [
     {
-      "name": "Escape the Backroom",
       "description": "Explore os labirintos infinitos dos Backrooms. Fuja das entidades, resolva puzzles e tente sair — se é que existe saída.",
-      "version": "1.0.3",
-      "type": "standalone",
+      "executable": "Backrooms.exe",
       "file_url": "https://drive.google.com/file/d/14LtjjXXHomeUpaJ93udr4cow5l1W0Q4q/view?usp=drive_link",
       "hash_sha256": "11eb6c2c946f9a2c8fb4255e0147590827fe04918c8283bbd98c069b9400c238",
-      "size_bytes": 27291482145,
+      "icon_url": "https://drive.google.com/open?id=1uGl9i1AdUc-aFFvequENBlhEBYA-MIV-",
       "install_path": "Escape the Backroom",
-      "executable": "Backrooms.exe",
+      "name": "Escape the Backroom",
+      "size_bytes": 27291482145,
       "thumbnail_url": "https://drive.google.com/open?id=1bRc6xqz3FkNV8bEqqFjtLJGbJV2oQ6mC",
-      "icon_url": "https://drive.google.com/open?id=1uGl9i1AdUc-aFFvequENBlhEBYA-MIV-"
+      "type": "standalone",
+      "version": "1.0.3"
     },
     {
-      "name": "Lethal Company",
       "description": "Colete sucata espacial para pagar a dívida da empresa. Explore luas abandonadas com seus amigos — se voltarem.",
-      "version": "1.0.2",
-      "type": "standalone",
-      "install_path": "Lethal Company",
       "executable": "Lethal Company.exe",
       "file_url": "https://drive.google.com/open?id=1qGbYLyoe82XFGFGninhbEPUhxyiOIH2a",
       "hash_sha256": "057bf8df6719056052d0f9939c8a10c28e028197ec54a7d920168edaadbb1a85",
-      "size_bytes": 2010575591,
-      "thumbnail_url": "https://drive.google.com/open?id=132FVotAp1or1A68o9suAOuORxUqMm3Vu",
       "icon_url": "https://drive.google.com/open?id=1Z0VcOHUoblKmIchs8ooEqg1IL50_AVPM",
-      "thumbnail_offset": 0.027
+      "install_path": "Lethal Company",
+      "name": "Lethal Company",
+      "size_bytes": 2010575591,
+      "thumbnail_offset": 0.027,
+      "thumbnail_url": "https://drive.google.com/open?id=132FVotAp1or1A68o9suAOuORxUqMm3Vu",
+      "type": "standalone",
+      "version": "1.0.2"
     },
     {
-      "name": "TEKKID 8",
       "description": "Modpack de Minecraft do grupo LDKF. Guerra entre facções, mods pesados e caos garantido — prepare-se para o Tekkid.",
-      "version": "1.0.2",
-      "type": "minecraft",
       "file_url": "https://drive.google.com/open?id=1QwtG0ofMFswm6s5NB5WxERtwiVkYEKVM",
       "hash_sha256": "b1dc16fafbfaa6e0c9d6aa6a5bc38078f2871add8398868b255293af32c60a24",
-      "size_bytes": 888041377,
+      "icon_url": "https://drive.google.com/open?id=1jtt9lOQA0VPs8mBWNYpYWSvIN1VpwN21",
       "install_path": "TEKKID 8",
       "instance_name": "TEKKID 8",
+      "name": "TEKKID 8",
+      "size_bytes": 888041377,
       "thumbnail_url": "https://drive.google.com/open?id=101QLrTpUgApGNdvHR6L2dPstO_Kii9h0",
-      "icon_url": "https://drive.google.com/open?id=1jtt9lOQA0VPs8mBWNYpYWSvIN1VpwN21"
+      "type": "minecraft",
+      "version": "1.0.2"
     },
     {
-      "name": "Super Battle Golf",
       "description": "Golf mas com superpoderes e batalha. Simples assim.",
-      "version": "1.0.0",
-      "type": "standalone",
-      "install_path": "Super Battle Golf",
       "executable": "Super Battle Golf.exe",
       "file_url": "https://drive.google.com/open?id=134S64o7I_SfeR2kdPHbeQf2rCgUErXhU",
       "hash_sha256": "f225e78593adfe0d3f16cbc20b814788607dd676dbf952a58dd97258802099b8",
-      "size_bytes": 1372022844,
-      "thumbnail_url": "https://drive.google.com/open?id=14uFkCrmXfjOJJk8sQTfBBXiNm7PYuGKs",
       "icon_url": "https://drive.google.com/open?id=1fB5yhI_A5Hfue6nfJm7vxF0ZuY5xARL9",
-      "thumbnail_offset": 0.1172
+      "install_path": "Super Battle Golf",
+      "name": "Super Battle Golf",
+      "size_bytes": 1372022844,
+      "thumbnail_offset": 0.1172,
+      "thumbnail_url": "https://drive.google.com/open?id=14uFkCrmXfjOJJk8sQTfBBXiNm7PYuGKs",
+      "type": "standalone",
+      "version": "1.0.0"
     },
     {
       "name": "Among Us",
-      "description": "Completem as tarefas. Não confiem em ninguém. O impostor já escolheu a próxima vítima.",
       "version": "1.0.0",
       "type": "standalone",
-      "install_path": "Among Us",
-      "file_url": "https://drive.google.com/open?id=1HsjAugusAJCUidbukMh4Ck2Rskluxmwz",
-      "hash_sha256": "603d7e036e27a8faaeb22e14d21fb015f6bfe13884fb2b8722813beca18249d0",
-      "size_bytes": 665214649,
-      "executable": "Among Us.exe",
+      "description": "Completem as tarefas. Não confiem em ninguém. O impostor já escolheu a próxima vítima.",
       "thumbnail_url": "https://drive.google.com/open?id=1jaTvsFoUhFcXx-6Fho7txILsLbTva0CS",
+      "icon_url": "https://drive.google.com/open?id=13VSkTn1IrSC-L6ikV9WO5tDUJ-JMeKuq",
+      "install_path": "Among Us",
+      "executable": "Among Us.exe",
       "thumbnail_offset": 0.027,
-      "icon_url": "https://drive.google.com/open?id=13VSkTn1IrSC-L6ikV9WO5tDUJ-JMeKuq"
+      "file_url": "https://drive.google.com/open?id=12-37tSNeKKMOam37zq2Cof8NSMWOG6Ev",
+      "hash_sha256": "603d7e036e27a8faaeb22e14d21fb015f6bfe13884fb2b8722813beca18249d0",
+      "size_bytes": 665214649
     },
     {
-      "name": "Burglin' Gnomes",
       "description": "Invada casas humanas com seus amigos, complete as missões do High-Gnome e fuja antes de virar jantar do dono.",
-      "version": "06.10.2026",
-      "type": "standalone",
-      "install_path": "Burglin' Gnomes",
+      "executable": "Gnomium.exe",
       "file_url": "https://drive.google.com/open?id=1bG-CCGd6Lvb7UMsuOMP7-4QBZFRb_xW0",
       "hash_sha256": "4622d2fcb313f6036a98dbc1f1bc4e54f8338fb7f3bb63ba4977c0deb137c333",
+      "icon_url": "https://drive.google.com/open?id=1p4oDF9U3fP5k3BOCmHRfnbpjv5W3iCu8",
+      "install_path": "Burglin' Gnomes",
+      "name": "Burglin' Gnomes",
       "size_bytes": 3642629202,
-      "executable": "Gnomium.exe",
-      "thumbnail_url": "https://drive.google.com/open?id=1D3Bqqcu99CwiZSh_seW06VBxyfvw6Vs7",
       "thumbnail_offset": 0.4525,
-      "icon_url": "https://drive.google.com/open?id=1p4oDF9U3fP5k3BOCmHRfnbpjv5W3iCu8"
+      "thumbnail_url": "https://drive.google.com/open?id=1D3Bqqcu99CwiZSh_seW06VBxyfvw6Vs7",
+      "type": "standalone",
+      "version": "06.10.2026"
     },
     {
-      "name": "MECCHA CHAMELEON",
       "description": "Pinte seu corpo, encontre o esconderijo perfeito e engane os caçadores — seu talento artístico é sua única defesa.",
-      "version": "1.2.2",
-      "type": "standalone",
-      "install_path": "MECCHA CHAMELEON",
+      "executable": "PenguinHotel.exe",
       "file_url": "https://drive.google.com/open?id=1nDwS3vmr_HUTGa4Bx8JF-15P2JgQ-CKm",
       "hash_sha256": "384b27f5a4b49fb90378ad2d236b9a9118925bc2c17c62d8293c9035cc8b8a61",
+      "icon_url": "https://drive.google.com/open?id=1DwrQM7KlxdaR53KPUA0ARVKy1M7ovRV5",
+      "install_path": "MECCHA CHAMELEON",
+      "name": "MECCHA CHAMELEON",
       "size_bytes": 4437083596,
-      "executable": "PenguinHotel.exe",
-      "thumbnail_url": "https://drive.google.com/open?id=1Oqw2YNicMH58Bs-9IdKDYZv8gLMbYkmI",
       "thumbnail_offset": 0.093,
-      "icon_url": "https://drive.google.com/open?id=1DwrQM7KlxdaR53KPUA0ARVKy1M7ovRV5"
+      "thumbnail_url": "https://drive.google.com/open?id=1Oqw2YNicMH58Bs-9IdKDYZv8gLMbYkmI",
+      "type": "standalone",
+      "version": "1.2.2"
     }
-  ]
+  ],
+  "shared": {
+    "prism_launcher": {
+      "file_url": "https://github.com/PrismLauncher/PrismLauncher/releases/download/11.0.2/PrismLauncher-Windows-MSVC-Portable-11.0.2.zip",
+      "hash_sha256": "2370410de1e631aa06da58d042fb0acfc69dedaf90e97b7dfa3dee1c48a77f71",
+      "install_path": "PrismLauncher",
+      "size_bytes": 20397811,
+      "version": "11.0.2"
+    }
+  }
 }
