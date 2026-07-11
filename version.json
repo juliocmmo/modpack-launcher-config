@@ -55,18 +55,18 @@
       "version": "1.0.0"
     },
     {
-      "name": "Among Us",
-      "version": "1.0.1",
-      "type": "standalone",
       "description": "Completem as tarefas. Não confiem em ninguém. O impostor já escolheu a próxima vítima.",
-      "thumbnail_url": "https://drive.google.com/open?id=1jaTvsFoUhFcXx-6Fho7txILsLbTva0CS",
-      "icon_url": "https://drive.google.com/open?id=13VSkTn1IrSC-L6ikV9WO5tDUJ-JMeKuq",
-      "install_path": "Among Us",
       "executable": "Among Us.exe",
-      "thumbnail_offset": 0.027,
       "file_url": "https://drive.google.com/open?id=1Q59VRIC1g_W5z4rU69ZSpz5nyfjaCWQc",
       "hash_sha256": "603d7e036e27a8faaeb22e14d21fb015f6bfe13884fb2b8722813beca18249d0",
-      "size_bytes": 665214649
+      "icon_url": "https://drive.google.com/open?id=13VSkTn1IrSC-L6ikV9WO5tDUJ-JMeKuq",
+      "install_path": "Among Us",
+      "name": "Among Us",
+      "size_bytes": 665214649,
+      "thumbnail_offset": 0.027,
+      "thumbnail_url": "https://drive.google.com/open?id=1jaTvsFoUhFcXx-6Fho7txILsLbTva0CS",
+      "type": "standalone",
+      "version": "1.0.1"
     },
     {
       "description": "Invada casas humanas com seus amigos, complete as missões do High-Gnome e fuja antes de virar jantar do dono.",
@@ -83,18 +83,18 @@
       "version": "06.10.2026"
     },
     {
+      "name": "MECCHA CHAMELEON",
+      "version": "2.4.1",
+      "type": "standalone",
       "description": "Pinte seu corpo, encontre o esconderijo perfeito e engane os caçadores — seu talento artístico é sua única defesa.",
-      "executable": "PenguinHotel.exe",
-      "file_url": "https://drive.google.com/open?id=1nDwS3vmr_HUTGa4Bx8JF-15P2JgQ-CKm",
-      "hash_sha256": "384b27f5a4b49fb90378ad2d236b9a9118925bc2c17c62d8293c9035cc8b8a61",
+      "thumbnail_url": "https://drive.google.com/open?id=1Oqw2YNicMH58Bs-9IdKDYZv8gLMbYkmI",
       "icon_url": "https://drive.google.com/open?id=1DwrQM7KlxdaR53KPUA0ARVKy1M7ovRV5",
       "install_path": "MECCHA CHAMELEON",
-      "name": "MECCHA CHAMELEON",
-      "size_bytes": 4437083596,
+      "executable": "PenguinHotel.exe",
       "thumbnail_offset": 0.093,
-      "thumbnail_url": "https://drive.google.com/open?id=1Oqw2YNicMH58Bs-9IdKDYZv8gLMbYkmI",
-      "type": "standalone",
-      "version": "1.2.2"
+      "file_url": "https://drive.google.com/open?id=1XNhgDjd8v0AOTr9jXJjI6AqPkI_ZhkFG",
+      "hash_sha256": "e495a1dfbff5ddd63e0b7b85dca6e09acf5c067a4ae0add6dd32dec0b1564664",
+      "size_bytes": 2419786194
     }
   ],
   "shared": {
