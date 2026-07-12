@@ -28,31 +28,18 @@
       "version": "1.0.2"
     },
     {
-      "description": "Modpack de Minecraft do grupo LDKF. Guerra entre facções, mods pesados e caos garantido — prepare-se para o Tekkid.",
-      "file_url": "https://drive.google.com/open?id=1QwtG0ofMFswm6s5NB5WxERtwiVkYEKVM",
-      "hash_sha256": "b1dc16fafbfaa6e0c9d6aa6a5bc38078f2871add8398868b255293af32c60a24",
-      "icon_url": "https://drive.google.com/open?id=1jtt9lOQA0VPs8mBWNYpYWSvIN1VpwN21",
-      "install_path": "TEKKID 8",
-      "instance_name": "TEKKID 8",
-      "name": "TEKKID 8",
-      "size_bytes": 888041377,
-      "thumbnail_url": "https://drive.google.com/open?id=101QLrTpUgApGNdvHR6L2dPstO_Kii9h0",
-      "type": "minecraft",
-      "version": "1.0.2"
-    },
-    {
-      "name": "Super Battle Golf",
-      "version": "1.1.2-436",
-      "type": "standalone",
       "description": "Golf mas com superpoderes e batalha. Simples assim.",
-      "thumbnail_url": "https://drive.google.com/open?id=14uFkCrmXfjOJJk8sQTfBBXiNm7PYuGKs",
-      "icon_url": "https://drive.google.com/open?id=1fB5yhI_A5Hfue6nfJm7vxF0ZuY5xARL9",
-      "install_path": "Super Battle Golf",
       "executable": "Super Battle Golf.exe",
-      "thumbnail_offset": 0.1172,
       "file_url": "https://drive.google.com/open?id=1vgHb1ZysJ0Ut9T2txnyVB3e5PHklCzet",
       "hash_sha256": "35f09a67ebadcce9b5f5be70a93cdbb3c122827b9c07c5e05609b06e5d01bfbb",
-      "size_bytes": 1372022758
+      "icon_url": "https://drive.google.com/open?id=1fB5yhI_A5Hfue6nfJm7vxF0ZuY5xARL9",
+      "install_path": "Super Battle Golf",
+      "name": "Super Battle Golf",
+      "size_bytes": 1372022758,
+      "thumbnail_offset": 0.1172,
+      "thumbnail_url": "https://drive.google.com/open?id=14uFkCrmXfjOJJk8sQTfBBXiNm7PYuGKs",
+      "type": "standalone",
+      "version": "1.1.2-436"
     },
     {
       "description": "Completem as tarefas. Não confiem em ninguém. O impostor já escolheu a próxima vítima.",
